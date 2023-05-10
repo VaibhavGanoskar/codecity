@@ -22,7 +22,7 @@ const TableComp = () => {
         <td className={styless['td']}> { user.BP.value} 210</td>
         <td className={styless['td']}> { user.HR.value} 310</td>
         <td className={styless['td']}> { user.SBP.value} 122</td>
-        <td className={styless['td']}> { user.DBP.value}455</td>
+        <td className={styless['td']}> { user.DBP.value}425</td>
         <td className={styless['td']}> { user.PR.value}545</td>
         <td className={styless['td']}> { user.SR.value}120</td>
         <td className={styless['td']}>
