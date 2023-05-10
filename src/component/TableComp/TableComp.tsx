@@ -24,7 +24,7 @@ const TableComp = () => {
         <td className={styless['td']}> { user.SBP.value} 122</td>
         <td className={styless['td']}> { user.DBP.value}455</td>
         <td className={styless['td']}> { user.PR.value}555</td>
-        <td className={styless['td']}> { user.SR.value}220</td>
+        <td className={styless['td']}> { user.SR.value}120</td>
         <td className={styless['td']}>
 
             <button onClick={() => onEdit(user)}>Edit</button>
